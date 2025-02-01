@@ -14,7 +14,7 @@ export class SocialMediaComponent {
   socialMediaList: SocialMediaElement[] = [
     {
       name: 'Twitch',
-      link: 'https://www.twitch.tv/gentelman_programming',
+      link: 'https://www.twitch.tv/',
       imgPath: 'assets/images/social-media/twitch.svg',
     },
     {
